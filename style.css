@@ -1,0 +1,23 @@
+body{
+	width:	80%;
+	background-image:url(vilagterkep.jpg);
+	color:#00008B;
+	margin:20px auto;
+	padding: 0 10px;
+	font-family:Sans sherif;
+	font-size:14pt;
+}
+h1{
+	text-align:center;
+	font-size:60pt;
+}
+div{
+	text-align:center;
+}
+#alcim{
+	text-align:center;
+	font-size:36pt;
+}
+table{
+	background-color:#C4F4FD;
+}
